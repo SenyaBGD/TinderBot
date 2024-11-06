@@ -4,5 +4,5 @@
 https://www.python.org/
    
 Библиотеки:   
-3. pip install python-telegram-bot
-4. pip install openai
+2. pip install python-telegram-bot
+3. pip install openai
